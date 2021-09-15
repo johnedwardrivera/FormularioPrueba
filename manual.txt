@@ -1,0 +1,4 @@
+manual git
+https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/
+https://www.freecodecamp.org/espanol/news/git-pull-explicado/
+https://bluuweb.github.io/tutorial-github/guia/fundamentos.html 
